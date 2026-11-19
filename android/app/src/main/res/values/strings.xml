@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sweet Sugar Quest</string>
+
+    <string name="brand_title">SUGAR BLOOM</string>
+    <string name="brand_sub">QUEST</string>
+    <string name="menu_tagline">CANDY GARDEN QUEST</string>
+    <string name="loading_caption">LOADING THE GARDEN</string>
+
+    <string name="cta_play">PLAY</string>
+    <string name="cta_play_again">PLAY AGAIN</string>
+    <string name="cta_play_now">PLAY NOW</string>
+    <string name="cta_menu">MENU</string>
+    <string name="cta_back">BACK</string>
+    <string name="cta_next">NEXT</string>
+    <string name="cta_levels">LEVELS</string>
+    <string name="cta_missions">MISSIONS</string>
+    <string name="cta_collection">COLLECTION</string>
+    <string name="cta_rewards">REWARDS</string>
+    <string name="cta_tutorial">TUTORIAL</string>
+    <string name="cta_settings">SETTINGS</string>
+    <string name="cta_resume">RESUME</string>
+    <string name="cta_restart">RESTART</string>
+    <string name="cta_claim">CLAIM</string>
+    <string name="cta_open">OPEN</string>
+    <string name="cta_new_set">NEW SET</string>
+    <string name="cta_reset">RESET</string>
+    <string name="cta_cancel">CANCEL</string>
+    <string name="cta_close">CLOSE</string>
+    <string name="cta_bloom_sweep">DROP BLOOM</string>
+    <string name="cta_reroll">REROLL %1$d</string>
+    <string name="cta_play_stage">PLAY STAGE %1$d</string>
+
+    <string name="menu_hint_first">Press the big pink tile to grow your first bloom</string>
+    <string name="menu_stage_line">STAGE %1$d · %2$s</string>
+    <string name="label_fraction">%1$d/%2$d</string>
+    <string name="label_best_score">BEST SCORE</string>
+    <string name="label_stars">STARS</string>
+    <string name="label_coins">SUGAR COINS</string>
+
+    <string name="game_stage">STAGE %1$d</string>
+    <string name="game_hint">Press a cluster of 2 or more matching blooms to burst it</string>
+    <string name="game_fallback">Using a backup garden bed for this stage</string>
+    <string name="label_moves">MOVES</string>
+    <string name="label_score">SCORE</string>
+    <string name="label_bloom">BLOOM</string>
+    <string name="label_crust">CRUST</string>
+    <string name="label_wilt">WILT</string>
+    <string name="label_meter">BLOOM METER %1$d/%2$d</string>
+
+    <string name="result_win">GARDEN IN BLOOM</string>
+    <string name="result_out_of_moves">SUGAR WILTED</string>
+    <string name="result_crushed">THE CRUST WON</string>
+    <string name="label_blooms_burst">BLOOMS BURST</string>
+    <string name="label_crust_cracked">CRUST CRACKED</string>
+    <string name="result_coins">+%1$d SUGAR COINS</string>
+    <string name="result_mission">MISSION COMPLETE: %1$s</string>
+
+    <string name="levels_title">LEVEL MAP</string>
+    <string name="levels_stars">%1$d/%2$d STARS</string>
+    <string name="band_berry">BERRY HOLLOW</string>
+    <string name="band_citrus">CITRUS GROVE</string>
+    <string name="band_cocoa">COCOA GLADE</string>
+    <string name="levels_locked">Clear Stage %1$d to open this patch</string>
+    <string name="levels_best">BEST %1$d</string>
+    <string name="levels_budget">%1$d MOVES</string>
+    <string name="levels_goal">GOAL</string>
+
+    <string name="stage_1">BERRY SPROUT</string>
+    <string name="stage_2">JAM PUDDLE</string>
+    <string name="stage_3">CRIMSON PATCH</string>
+    <string name="stage_4">BERRY CROWN</string>
+    <string name="stage_5">LEMON DRIFT</string>
+    <string name="stage_6">ZEST TERRACE</string>
+    <string name="stage_7">CITRUS SPIRE</string>
+    <string name="stage_8">SUNRIND BEDS</string>
+    <string name="stage_9">COCOA HOLLOW</string>
+    <string name="stage_10">TRUFFLE TERRACE</string>
+    <string name="stage_11">CARAMEL VEIL</string>
+    <string name="stage_12">MIDNIGHT COCOA</string>
+
+    <string name="bloom_1">Strawberry Bloom</string>
+    <string name="bloom_2">Lemon Bud</string>
+    <string name="bloom_3">Mint Clover</string>
+    <string name="bloom_4">Blueberry Bell</string>
+    <string name="bloom_5">Grape Bloom</string>
+    <string name="bloom_6">Cherry Curl</string>
+    <string name="bloom_7">Peach Puff</string>
+    <string name="bloom_8">Melon Crescent</string>
+    <string name="bloom_9">Plum Lantern</string>
+    <string name="bloom_10">Apricot Fan</string>
+    <string name="bloom_11">Fig Crown</string>
+    <string name="bloom_12">Cocoa Star</string>
+    <string name="bloom_13">Blush Orchid</string>
+    <string name="bloom_14">Citrus Comet</string>
+    <string name="bloom_15">Velvet Truffle</string>
+
+    <string name="collection_title">CANDY GARDEN</string>
+    <string name="collection_count">%1$d/%2$d BLOOMS</string>
+    <string name="collection_tier">GARDEN TIER %1$d · +%2$d STARTING MOVES</string>
+    <string name="collection_tier_zero">GARDEN TIER 0 · PLANT 5 BLOOMS FOR A BONUS MOVE</string>
+    <string name="collection_empty_title">EMPTY GARDEN BED</string>
+    <string name="collection_empty_body">Your garden bed is still bare. Clear a stage to plant the first bloom.</string>
+
+    <string name="missions_title">MISSIONS</string>
+    <string name="missions_empty_title">ALL MISSIONS BLOOMED</string>
+    <string name="missions_empty_body">Every mission bloomed. A fresh set is sprouting.</string>
+    <string name="missions_reward">+%1$d COINS</string>
+    <string name="missions_claimed">CLAIMED</string>
+
+    <string name="mission_1_title">BERRY HARVEST</string>
+    <string name="mission_1_desc">Burst 40 strawberry blooms.</string>
+    <string name="mission_2_title">CRUST BREAKER</string>
+    <string name="mission_2_desc">Crack 12 sugar crusts.</string>
+    <string name="mission_3_title">SPARE MOVES</string>
+    <string name="mission_3_desc">Finish a stage with 5 moves left.</string>
+    <string name="mission_4_title">METER MASTER</string>
+    <string name="mission_4_desc">Charge and fire 3 bloom sweeps.</string>
+    <string name="mission_5_title">FLAWLESS BED</string>
+    <string name="mission_5_desc">Clear a stage without a wilt strike.</string>
+    <string name="mission_6_title">GRAND CLUSTER</string>
+    <string name="mission_6_desc">Burst a cluster of 7 or more.</string>
+
+    <string name="rewards_title">REWARD CHESTS</string>
+    <string name="rewards_empty_title">NO SUGAR COINS YET</string>
+    <string name="rewards_empty_body">Play a stage to earn your first Sugar Coins.</string>
+    <string name="rewards_disclaimer">Virtual rewards only. No real-money play.</string>
+    <string name="rewards_cost">%1$d COINS</string>
+    <string name="rewards_planted">PLANTED</string>
+    <string name="rewards_opened_title">NEW BLOOM PLANTED</string>
+    <string name="rewards_opened_body">%1$s joins your candy garden.</string>
+    <string name="chest_1">Blush Pot</string>
+    <string name="chest_2">Citrus Crate</string>
+    <string name="chest_3">Cocoa Casket</string>
+
+    <string name="tutorial_title">HOW TO PLAY</string>
+    <string name="tutorial_step">STEP %1$d OF %2$d</string>
+    <string name="tutorial_1_title">PRESS A CLUSTER</string>
+    <string name="tutorial_1_body">Press any bloom that touches 2 or more of its own colour. The whole cluster bursts and costs one move.</string>
+    <string name="tutorial_2_title">BIGGER IS BETTER</string>
+    <string name="tutorial_2_body">A cluster of 4 or more charges the bloom meter. The score grows with the square of the cluster size.</string>
+    <string name="tutorial_3_title">CRACK THE CRUST</string>
+    <string name="tutorial_3_body">Sugar crust cannot be pressed. Burst a cluster beside it and the crust cracks, then melts away.</string>
+    <string name="tutorial_4_title">SWEEP THE BED</string>
+    <string name="tutorial_4_body">The big pink button sweeps the bottom row. With a full meter it clears every bloom of the colour your goal still needs.</string>
+
+    <string name="settings_title">SETTINGS</string>
+    <string name="settings_colourblind_title">COLOUR-BLIND MARKERS</string>
+    <string name="settings_colourblind_desc">Adds a distinct shape badge to every bloom colour.</string>
+    <string name="settings_motion_title">REDUCED MOTION</string>
+    <string name="settings_motion_desc">Shortens transitions and stops idle animations.</string>
+    <string name="settings_hint_title">HINT GLOW</string>
+    <string name="settings_hint_desc">Highlights the biggest cluster after 5 idle seconds.</string>
+    <string name="settings_reset_title">RESET GARDEN</string>
+    <string name="settings_reset_desc">Clears every star, bloom, coin and mission.</string>
+    <string name="settings_about_title">SUGAR BLOOM QUEST</string>
+    <string name="settings_about_age">12+</string>
+    <string name="settings_about_offline">Offline. Virtual rewards only.</string>
+    <string name="settings_reset_body">This clears every star, bloom, coin and mission. It cannot be undone.</string>
+    <string name="settings_data_reset">Garden data was reset</string>
+
+    <string name="pause_title">GARDEN PAUSED</string>
+    <string name="pause_seed">SEED %1$d</string>
+
+    <string name="cd_logo">Sugar Bloom emblem</string>
+    <string name="cd_pause">Pause the round</string>
+    <string name="cd_home">Return to the menu</string>
+    <string name="cd_locked">Locked</string>
+    <string name="cd_star">Star earned</string>
+    <string name="cd_crust">Sugar crust</string>
+    <string name="cd_bloom">Candy bloom</string>
+    <string name="cd_chest">Reward chest</string>
+    <string name="cd_goal_done">Goal complete</string>
+
+    <string name="sd_meter_charging">charging</string>
+    <string name="sd_meter_ready">ready</string>
+    <string name="sd_moves_low">few moves left</string>
+    <string name="sd_locked">locked</string>
+    <string name="sd_unlocked">unlocked</string>
+    <string name="sd_on">on</string>
+    <string name="sd_off">off</string>
+</resources>
